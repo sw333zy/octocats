@@ -1,3 +1,20 @@
+ul {
+  list-style: none; }
 
+li.octocat {
+  border: 1px solid #244d29;
+  width: 250px; }
+
+.cats {
+  width: 80%; }
+
+.author {
+  height: 28px;
+  width: 28px; }
+
+header {
+  padding: 15px 20px;
+  background: #f5f5f5;
+  display: block; }
 
 /*# sourceMappingURL=style.css.map */
