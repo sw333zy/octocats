@@ -1,16 +1,14 @@
-
-
-
-
 .octonumber{
   float: left;
   margin: 5px 0;
-  color: #cacaca;
+  color: $octonumberColor;
+  
 }
 
 cite {
   float: right;
+
   .author {
-    width: $authoravatarwidth
+    width: $authorAvatarWidth;
   }
 }

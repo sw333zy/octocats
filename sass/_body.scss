@@ -1,0 +1,27 @@
+li.octocat {
+  border: 1px solid $borderColor;
+  width: 300px;
+  float: left;
+  margin: 10px;
+  text-align: center;
+  padding: $catPad;
+
+
+}
+
+.cats{
+  // width: 80%;
+  width: calc(80% - 2em);
+}
+
+.octodex {
+margin: 10%;
+list-style: none !important;
+text-align: center;
+margin: 0 auto;
+float:left;
+  }
+
+// li.authors {
+//   list-style-type: none !important;
+// }
